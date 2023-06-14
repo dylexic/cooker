@@ -73,7 +73,7 @@ body{
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-image: url("https://dylexic.github.io/boatSpot/Images/menu_background.jpg");
+    background-image: url("https://dylexic.github.io/cooker/Images/menu_background.jpg");
 }
 
 .food_category, .food_categories{
